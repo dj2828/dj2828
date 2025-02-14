@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://bit.ly/m/dj_2828" target="_blank">
-    <img src="https://dj2828.github.io/sito/immagini/io_nuovo.png" width="52" height="40" alt="sito"  />
+    <img src="https://dj2828.github.io/sito/immagini/io_nuovo.png" width="52" height="60" alt="sito"  />
   </a>
 </div>
 
