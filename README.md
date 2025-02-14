@@ -1,12 +1,3 @@
-<h1>Ciao</h1>
-<p>uno skibidi sigma</p>
-<h2>🚀 Languages and Tools I Use</h2>
-
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.youtube.com/@dj_2828" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-
-
-
 <h1 align="center">Ciao</h1>
 
 ###
@@ -28,7 +19,7 @@
 
 <div align="left">
   <a href="https://bit.ly/m/dj_2828" target="_blank">
-    <img src="https://dj2828.github.io/sito/immagini/io_nuovo.png" width="52" height="60" alt="sito"  />
+    <img src="https://dj2828.github.io/sito/immagini/io_nuovo.png" width="52" height="78" alt="sito"/>
   </a>
 </div>
 
